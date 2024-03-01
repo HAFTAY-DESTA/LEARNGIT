@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #4b0d91;
+  color: rgba(233, 226, 226, 0.836);
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+nav ul li {
+
+  margin-right: 20px;
+  background-color: rgb(24, 224, 224);
+}
+
+#loginLinks {
+  display: none;
+}
+
+.hidden {
+  display: none;
+}
